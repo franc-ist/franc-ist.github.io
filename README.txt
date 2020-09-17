@@ -10,12 +10,8 @@ on the www. Sass sources are also included, so if you've never used Sass and you
 interested in giving it a try, head on over to sass-lang.com (and if not, you can
 safely delete the "sass/" folder).
 
-The scrolling mountainous background was derived from "Icefields" by Ryan Schroeder,
-a talented photographer from Vancouver who graciously released it on Unsplash under
-the CC0 license. Be sure to check out his other stuff over at flickr (link below)
-as well as all the other kickass CC0-licensed images at Unsplash (unsplash.com).
-
-Questions/comments/issues = just email or find me on Twitter. Have fun!
+The scrolling space background was derived from "Moon close-up" by Nasa, who graciously released it on Unsplash under
+the CC0 license.
 
 AJ
 n33.co @n33co dribbble.com/n33
@@ -54,8 +50,8 @@ The Scrolling Background:
 Credits:
 
 	Background Image:
-		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
-			"Icefields" (flickr.com/photos/ryanschroeder/11876741703)
+		Nasa via Unsplash (unsplash.com - CC0 licensed)
+			"Moon close-up" (https://unsplash.com/photos/V4ZksNimxLk)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
