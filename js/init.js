@@ -12,8 +12,8 @@
 			'global': { range: '*', href: 'css/style.css', viewport: { scalable: false } },
 			'wide': { range: '-1680', href: 'css/style-wide.css' },
 			'normal': { range: '-1280', href: 'css/style-normal.css' },
-			'mobile': { range: '-736', href: 'css/style-mobile.css' },
-			'mobilep': { range: '-480', href: 'css/style-mobilep.css' }
+			'mobile': { range: '-1280', href: 'css/style-mobile.css' },
+			'mobilep': { range: '-736', href: 'css/style-mobilep.css' }
 		}
 	});
 
