@@ -9,7 +9,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: white;
+		color: black;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -120,8 +120,8 @@
 	@keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-2250px,0,0); -webkit-transform: translate3d(-2250px,0,0); -o-transform: translate3d(-2250px,0,0); -ms-transform: translate3d(-2250px,0,0); transform: translate3d(-2250px,0,0); } }
 
 	#bg {
-		background-size: 2250px auto;
-		width: 6750px;
+		background-size: 4000px auto;
+		width: 5120px;
 	}
 
 /* Overlay */
@@ -361,7 +361,7 @@
 
 					#header nav a:hover:before {
 						background-color: rgba(255, 255, 255, 0.175);
-						color: white;
+						color: ;
 					}
 
 				#header nav a:active {
@@ -371,7 +371,7 @@
 
 					#header nav a:active:before {
 						background-color: rgba(255, 255, 255, 0.35);
-						color: white;
+						color: ;
 					}
 
 				#header nav a span {
