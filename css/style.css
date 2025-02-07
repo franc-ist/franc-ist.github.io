@@ -216,6 +216,13 @@
 			line-height: 1em;
 		}
 
+		#header h3 {
+			font-size: 1.25em;
+			font-weight: 600;
+			margin: 0.75em 0 0.25em 0;
+			opacity: 0.8;
+		}
+
 		#header p {
 			font-size: 1.25em;
 			margin: 0.75em 0 0.25em 0;
